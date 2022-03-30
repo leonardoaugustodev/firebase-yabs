@@ -1,0 +1,28 @@
+[
+    {
+        "id": "91da341f50e149f6511d515812936a57",
+        "date": 1648608334946,
+        "payee": "",
+        "category_id": "1",
+        "account_id": "1",
+        "description": "Record test 1",
+        "outflow": 0,
+        "inflow": 1200,
+        "code": "",
+        "created_date": 1648608334946,
+        "updated_date": 1648608334946
+    },
+    {
+        "id": "91da341f50e149f6511d51581293658",
+        "date": 1648608334946,
+        "payee": "",
+        "category_id": "1",
+        "account_id": "1",
+        "description": "Record test 2",
+        "outflow": 0,
+        "inflow": 1200,
+        "code": "",
+        "created_date": 1648608334946,
+        "updated_date": 1648608334946
+    }
+]

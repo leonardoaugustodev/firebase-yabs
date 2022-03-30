@@ -1,0 +1,18 @@
+[
+    {
+        "id": "91da341f50e149f6511d515812936a57",
+        "budget_id": "1",
+        "category_id": "1",
+        "budgeted": 1200,
+        "created_date": 1648608334946,
+        "updated_date": 1648608334946
+    },
+    {
+        "id": "91da341f50e149f6511d515812936a60",
+        "budget_id": "1",
+        "category_id": "1",
+        "budgeted": 1200,
+        "created_date": 1648608334946,
+        "updated_date": 1648608334946
+    }
+]

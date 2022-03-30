@@ -1,0 +1,24 @@
+[
+    {
+        "id": "91da341f50e149f6511d515812936a57",
+        "name": "Category 1",
+        "is_active": true,
+        "parent_id": "1",
+        "color_hex": "#3fe3fe",
+        "icon": "dashboard",
+        "deactivated_date": 1648608334946,
+        "created_date": 1648608334946,
+        "updated_date": 1648608334946
+    },
+    {
+        "id": "91da341f50e149f6511d515812936a60",
+        "name": "Category 1",
+        "is_active": true,
+        "parent_id": "1",
+        "color_hex": "#3fe3fe",
+        "icon": "dashboard",
+        "deactivated_date": 1648608334946,
+        "created_date": 1648608334946,
+        "updated_date": 1648608334946
+    }
+]
